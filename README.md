@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tan Nguyen</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h1 align="center">Hi 👋, I'm Tran Tan Nguyen</h1>
+<h3 align="center">A passionate frontend developer from Vietnam.</h3>
 
-- 🔭 I’m currently working on [CTFd](https://github.com/TranTanNguyen/CTFd)
+- 🔭 I’m currently working on [CTFd](https://github.com/TranTanNguyen/CTFd).
 
-- 🌱 I’m currently learning **PHP, C#, Java**
+- 🌱 I’m currently learning **PHP, C#, Java**.
 
 - 📫 How to reach me **tannguyen582003@gmail.com**
 
